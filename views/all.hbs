@@ -16,12 +16,14 @@
             <tr>
                 <th>Name</th>
                 <th>City</th>
+                <th>Delete</th>
             </tr>
         </thead>
         {{#each data}}
         <tr class="table-secondary">
             <td>{{name}}</td>
             <td>{{city}}</td>
+            <td><a href="/delete?name={{name}}">Delete {{name}}</a></td>
         </tr>
         {{/each}}
     </table>
