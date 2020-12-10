@@ -1,1 +1,1 @@
-/user1:Ha noi/user2: Ho Chi Minh/user3: Nghe An
+/user1:Ha noi/user2:Sai Gon/user3: Nghe An
